@@ -1,0 +1,13 @@
+.fixed-bg {
+    background-image: url("https://www.samajinfotech.com/assets/images/b/paper-3154814.jpg");
+    min-height: 670px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .center-block {
+    display: block;
+    margin: auto;
+  }
