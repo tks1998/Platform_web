@@ -11,3 +11,7 @@
     display: block;
     margin: auto;
   }
+
+  hr {
+    margin-top: 0;
+  }
